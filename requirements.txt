@@ -1,0 +1,3 @@
+streamlit==1.39.0
+torch==2.4.1+cu124
+transformers==4.45.2
